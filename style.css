@@ -137,7 +137,7 @@ nav {
 
 .header__content {
   overflow: hidden;
-  text-align: center;
+  text-align: left;
 }
 
 .header__content h2 {
